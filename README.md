@@ -10,7 +10,8 @@
 - <b>Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/asad6833/Azure-SOC-Honeypot)
 - <b>Applying Cybersecurity Regulations and Frameworks</b>
-  - [Applying NIST 800-53 Controls to Improve Azure Cloud Security Posture](https://github.com/asad6833/Applying-NIST-800-53-Controls-to-Improve-Azure-Cloud-Security-Posture) 
+  - [Applying NIST 800-53 Controls to Improve Azure Cloud Security Posture](https://github.com/asad6833/Applying-NIST-800-53-Controls-to-Improve-Azure-Cloud-Security-Posture)
+  - [Incident Response in Azure Sentinel Using NIST 800-61](https://github.com/asad6833/Azure-Incident-Response/tree/main)
 - <b>System Administration</b>
   - [Building an Active Directory Environment](https://github.com/asad6833/Active-Directory)
   - [Securing and Hardening a Linux System](https://github.com/asad6833/Securing-and-Hardening-a-Linux-System)
