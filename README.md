@@ -3,7 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad6833&label=Profile%20views&color=0e75b6&style=flat" alt="asad6833" /> </p>
-<img align="left" alt="Coding" width="100" src="https://camo.githubusercontent.com/a6a1709cc005dda086eb7634a72382b0b6c32b6c59c224ad22b9d6574177d173/68747470733a2f2f692e696d6775722e636f6d2f3144445a3455692e706e67">
+<img align="left" alt="Azure" width="100" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+
 <br> 
 <b>Cloud Security Project</b>
 
