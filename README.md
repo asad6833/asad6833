@@ -43,8 +43,6 @@
 
 - 🌱 I’m currently learning **Blockchain technology and its applications**
 
-- 🤝 I’m looking for help with **Job**
-
 - 💬 Ask me about **Cybersecurity strategies and best practices**
 
 - 📫 How to reach me **asad6833@outlook.com**
