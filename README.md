@@ -40,7 +40,7 @@
   <h3>Protecting Digital Assets from Cyber Threats</h3>
 </div>
 
-- 🔭 I’m currently working on [Azure-SOC-Honeypot](https://github.com/asad6833/asad6833.git)
+- 🔭 I’m currently working on my Master of Science in Cybersecurity and Information Assurance
 
 - 🌱 I’m currently learning **Blockchain technology and its applications**
 
