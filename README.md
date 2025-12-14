@@ -1,5 +1,26 @@
-<h1 align="center">Hi 👋, I'm Asad Khan</h1>
-<h3 align="center">Cloud Security Engineer | Azure | SOC Automation | Threat Detection</h3> 
+<h1 align="center" style="color:#1f6feb; font-weight:700; font-family:Segoe UI, Roboto, sans-serif;">
+  Hi, I’m Asad Khan
+</h1>
+
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Security%20Engineer%20%7C%20Azure;SOC%20Automation%20%7C%20Threat%20Detection;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&vCenter=true&width=650&height=45&color=F75BA0&pause=1000&size=22"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+
+</div>
+
+  </a>
+</div>
+
+
+
 <img align="right" alt="Cybersecurity" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
@@ -49,6 +70,14 @@
 - 📫 How to reach me **asad6833@outlook.com**
 
 - ⚡ Fun fact **I break things so I can secure them better 🔐🙂**
+
+## Hobbies
+
+- 🧠 Learning new things
+- 👨‍💻 Doing personal projects
+- ⚽ Watching Football
+- 🎮 Playing games
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
