@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Security%20Engineer%20%7C%20Azure;SOC%20Automation%20%7C%20Threat%20Detection;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&vCenter=true&width=650&height=45&color=F75BA0&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=Cloud%20Security%20Engineer%20%7C%20Azure;SOC%20Automation%20%7C%20Threat%20Detection;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&vCenter=true&width=650&height=45&color=F75BA0&pause=1000&size=28"
       alt="Typing SVG"
     />
   </a>
@@ -29,7 +29,10 @@
 <img align="left" alt="Azure" width="100" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
 
 <br> 
-<b>Cloud Security Project</b>
+
+
+<b>
+Cloud Security Project</b>
 
 - <b>Honeynet from scratch using Microsoft Azure (LIVE TRAFFIC!)</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/asad6833/Azure-SOC-Honeypot)
